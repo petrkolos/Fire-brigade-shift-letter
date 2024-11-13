@@ -1,6 +1,6 @@
 <?php
 /*
-Letter of fire-brigade shift in Czech Republic for zivyobraz.eu API
+Script to find the letter indicating the shift in firefighters in the Czech Republic and sending to zivyobraz.eu API
 Recommended CRON launch is at midnight.
 
 
